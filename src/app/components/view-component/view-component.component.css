@@ -1,0 +1,35 @@
+.view-container {
+  height: 96vh;
+  background-color: aquamarine;
+}
+
+.view-page {
+  /* background-color: #777; */
+  height: 100%;
+  margin: 10px 10px;
+}
+
+.header-info {
+  min-height: 20%;
+  background-color: #fff;
+}
+
+.header-inner {
+  float: left;
+  width: 33%;
+}
+
+.patient-info {
+  height: 15%;
+  background-color: #fff;
+}
+
+.prescription-space {
+  height: 55%;
+  background-color: #fff;
+}
+
+.footer-space {
+  background-color: #fff;
+  height: 10%;
+}
